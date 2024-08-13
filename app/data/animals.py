@@ -48,3 +48,4 @@ def remove_animal(animal: str) -> str:
         msg = f"Тварина '{animal}' відсутня у списку."
 
     return msg
+
